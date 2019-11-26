@@ -39,11 +39,6 @@ const DATA = [
     id: 7,
     text: "Card #7",
     uri: "http://imgs.abduzeedo.com/files/paul0v2/unsplash/unsplash-09.jpg"
-  },
-  {
-    id: 8,
-    text: "Card #8",
-    uri: "http://imgs.abduzeedo.com/files/paul0v2/unsplash/unsplash-01.jpg"
   }
 ];
 
